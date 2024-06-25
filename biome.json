@@ -1,0 +1,7 @@
+{
+  "files": {
+    "include": ["src/**/*.ts", "src/**/*.tsx"],
+    "ignore": ["scripts/**/*.js", "node_modules/**/*"]
+  },
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json"
+}
